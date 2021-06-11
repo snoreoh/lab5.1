@@ -1,15 +1,7 @@
 # lab05
 [![Build Status](https://travis-ci.org/supsun-sockol/lab05.svg?branch=main)](https://travis-ci.org/supsun-sockol/lab05)
 [![Coverage Status](https://coveralls.io/repos/github/supsun-sockol/lab5/badge.svg?branch=main)](https://coveralls.io/github/supsun-sockol/lab5?branch=main)
-```
 
-    Создайте CMakeList.txt для библиотеки banking.
-    Создайте модульные тесты на классы Transaction и Account.
-        Используйте mock-объекты.
-        Покрытие кода должно составлять 100%.
-    Настройте сборочную процедуру на TravisCI.
-    Настройте Coveralls.io.
-```
 
 ## CmakeLists.txt
 ```
