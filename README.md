@@ -1,6 +1,6 @@
 ## Homework. Lab #5
 
-[![Build Status](https://travis-ci.com/snoreoh/lab5.1.svg?branch=master)](https://travis-ci.org/snoreoh/lab5.1)
+[![Build Status](https://travis-ci.com/snoreoh/lab5.1.svg?branch=master)](https://travis-ci.com/github/snoreoh/lab5.1)
 [![Coverage Status](https://coveralls.io/repos/github/supsun-sockol/lab5/badge.svg?branch=main)](https://coveralls.io/github/supsun-sockol/lab5?branch=main)
 
 
