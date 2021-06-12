@@ -1,7 +1,7 @@
 ## Homework. Lab #5
 
 [![Build Status](https://travis-ci.com/snoreoh/lab5.1.svg?branch=master)](https://travis-ci.com/github/snoreoh/lab5.1)
-[![Coverage Status](https://coveralls.io/repos/github/supsun-sockol/lab5/badge.svg?branch=main)](https://coveralls.io/github/supsun-sockol/lab5?branch=main)
+[![Coverage Status](https://coveralls.io/repos/github/snoreoh/lab5.1/badge.svg?branch=master)](https://coveralls.io/github/snoreoh/lab5.1?branch=master)
 
 
 ## Создаем CmakeLists.txt:
